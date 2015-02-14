@@ -22,11 +22,10 @@ To install istanbul globally, saving some keystrokes, you can do the following:
 You'll get a high level report as follows (a more detailed report will be stored in `coverage/`):
 <pre>
 =============================== Coverage summary ===============================
-
-Statements   : 80% ( 4/5 )
-Branches     : 50% ( 1/2 )
-Functions    : 100% ( 1/1 )
-Lines        : 100% ( 4/4 )
+Statements   : 100% ( 59/59 )
+Branches     : 100% ( 16/16 )
+Functions    : 100% ( 5/5 )
+Lines        : 100% ( 58/58 )
 ================================================================================
 </pre>
 
